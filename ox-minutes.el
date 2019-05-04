@@ -30,7 +30,7 @@
 ;;    is prevented.
 ;;  - Also TOC and author name are not exported.
 ;;
-;; This is an ox-ascii derived backed for org exports.
+;; This is an ox-ascii derived backend for org exports.
 ;;
 ;; This backend effectively sets the `org-export-headline-levels' to 0 and,
 ;; `org-export-with-section-numbers', `org-export-with-author' and
